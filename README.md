@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence Assignments
 
 This repository contains projects created while learning about artificial intelligence.
 
